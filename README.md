@@ -4,6 +4,7 @@ Coding Ninjas Skill Test Frontend Project Group 2
 This is Meals app Where you can know about your favourites meals. You can search about any Meals see the deatils about that meal.You can also add it into favourite list
 
 Hosted link:-
+https://github.com/Ash25-chahare/MEALS-APP
 
 Language used :-
 Html, CSS and JavaScript .
